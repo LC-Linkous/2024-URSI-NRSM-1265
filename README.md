@@ -83,9 +83,11 @@ L. Linkous, J. Lundquist and E. Topsakal, "AntennaCAT: Automated Antenna Design 
 * https://www.tutorialspoint.com/google_colab/google_colab_using_free_gpu.htm
 * https://www.datacamp.com/tutorial/pandas-read-csv
 * https://matplotlib.org/
-* https://matplotlib.org/stable/plot_types/basic/scatter_plot.html#sphx-glr-plot-types-basic-scatter-plot-py 
+* https://matplotlib.org/stable/plot_types/basic/scatter_plot.html#sphx-glr-plot-types-basic-scatter-plot-py
 
 #### Tutorial 2: Manipulating the Dataset
+* https://www.geeksforgeeks.org/check-for-nan-in-pandas-dataframe/
+* https://www.geeksforgeeks.org/split-pandas-dataframe-by-column-value/
 
 #### Tutorial 3: Support Vector Machines
 
