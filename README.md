@@ -90,6 +90,9 @@ L. Linkous, J. Lundquist and E. Topsakal, "AntennaCAT: Automated Antenna Design 
 * https://www.geeksforgeeks.org/split-pandas-dataframe-by-column-value/
 
 #### Tutorial 3: Support Vector Machines
+* https://www.geeksforgeeks.org/classifying-data-using-support-vector-machinessvms-in-python/
+* https://towardsdatascience.com/support-vector-machines-explained-with-python-examples-cb65e8172c85
+* https://www.kaggle.com/code/prashant111/svm-classifier-tutorial
 
 #### Tutorial 4: Neural Networks
 
