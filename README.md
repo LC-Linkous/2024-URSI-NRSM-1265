@@ -93,6 +93,9 @@ L. Linkous, J. Lundquist and E. Topsakal, "AntennaCAT: Automated Antenna Design 
 * https://www.geeksforgeeks.org/classifying-data-using-support-vector-machinessvms-in-python/
 * https://towardsdatascience.com/support-vector-machines-explained-with-python-examples-cb65e8172c85
 * https://www.kaggle.com/code/prashant111/svm-classifier-tutorial
+* https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html
+* https://scikit-learn.org/stable/modules/svm.html
+* https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
 
 #### Tutorial 4: Neural Networks
 
