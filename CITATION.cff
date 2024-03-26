@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Lauren"
+  given-names: "Linkous"
+  orcid: "https://orcid.org/0000-0001-9945-5125"
+title: "2024-URSI-NRSM-1265"
+version: 1.0
+date-released: 2024-02-01
+url: "https://github.com/LC-Linkous/2024-URSI-NRSM-1265"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Lauren"
+    given-names: "Linkous"
+    orcid: "https://orcid.org/0000-0001-9945-5125"
+  - family-names: "Erdem"
+    given-names: "Topsakal"
+  doi: "10.0000/00000"
+  conference: "2024 United States National Committee of URSI National Radio Science Meeting (USNC-URSI NRSM)"
+  title: "Machine Learning Assisted Optimization Methods for Automated Antenna Design"
+  url: "10.23919/USNC-URSINRSM60317.2024.10464597"
+  year: 2024
