@@ -11,8 +11,10 @@ Repository for code featured in "Machine Learning Assisted Optimization Methods 
     * [Tutorial 3: Support Vector Machines](#tutorial-3)
     * [Tutorial 4: Neural Networks](#tutorial-4)
     * [Tutorial 5: Fuzzy Logic and Rule-Based Approaches](#tutorial-5)
-* [Related Publications](#future-work)
 * [Resources](#resources)
+* [Related Publications](#future-work)
+* [How to Cite](#how-to-cite)
+
 
 
 ## Requirements
@@ -65,15 +67,6 @@ Using data filtered for valid designs, Neural Networks (NNs) are used to classif
 This tutorial does not use the full dataset because it requires a simulation loop in the current process. However, several examples for fuzzy classification and a rules-based approach are shown.
 
 
-## Related Publications
-
-L. Linkous and E. Topsakal, "Machine Learning Assisted Optimization Methods for Automated Antenna Design," 2024 United States National Committee of URSI National Radio Science Meeting (USNC-URSI NRSM), Boulder, CO, USA, 2024, pp. 377-378, doi: 10.23919/USNC-URSINRSM60317.2024.10464597.
-
-L. Linkous, E. Karincic, J. Lundquist and E. Topsakal, "Automated Antenna Calculation, Design and Tuning Tool for HFSS," 2023 United States National Committee of URSI National Radio Science Meeting (USNC-URSI NRSM), Boulder, CO, USA, 2023, pp. 229-230, doi: 10.23919/USNC-URSINRSM57470.2023.10043119.
-
-L. Linkous, J. Lundquist and E. Topsakal, "AntennaCAT: Automated Antenna Design and Tuning Tool," 2023 IEEE USNC-URSI Radio Science Meeting (Joint with AP-S Symposium), Portland, OR, USA, 2023, pp. 89-90, doi: 10.23919/USNC-URSI54200.2023.10289238.
-
-
 ## Resources
 
 #### Tutorial 1: Google Colab and the Dataset
@@ -100,4 +93,23 @@ L. Linkous, J. Lundquist and E. Topsakal, "AntennaCAT: Automated Antenna Design 
 #### Tutorial 4: Neural Networks
 
 #### Tutorial 5: Fuzzy Logic and Rule-Based Approaches
+
+
+
+## Related Publications
+
+L. Linkous and E. Topsakal, "Machine Learning Assisted Optimization Methods for Automated Antenna Design," 2024 United States National Committee of URSI National Radio Science Meeting (USNC-URSI NRSM), Boulder, CO, USA, 2024, pp. 377-378, doi: 10.23919/USNC-URSINRSM60317.2024.10464597.
+
+L. Linkous, E. Karincic, J. Lundquist and E. Topsakal, "Automated Antenna Calculation, Design and Tuning Tool for HFSS," 2023 United States National Committee of URSI National Radio Science Meeting (USNC-URSI NRSM), Boulder, CO, USA, 2023, pp. 229-230, doi: 10.23919/USNC-URSINRSM57470.2023.10043119.
+
+L. Linkous, J. Lundquist and E. Topsakal, "AntennaCAT: Automated Antenna Design and Tuning Tool," 2023 IEEE USNC-URSI Radio Science Meeting (Joint with AP-S Symposium), Portland, OR, USA, 2023, pp. 89-90, doi: 10.23919/USNC-URSI54200.2023.10289238.
+
+
+## How to Cite
+
+Data and examples in this repository are from: 
+
+L. Linkous and E. Topsakal, "Machine Learning Assisted Optimization Methods for Automated Antenna Design," 2024 United States National Committee of URSI National Radio Science Meeting (USNC-URSI NRSM), Boulder, CO, USA, 2024, pp. 377-378, doi: 10.23919/USNC-URSINRSM60317.2024.10464597.
+
+[View online at IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10464597)
 
