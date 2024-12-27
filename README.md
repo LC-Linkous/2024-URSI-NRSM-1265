@@ -69,6 +69,8 @@ This tutorial does not use the full dataset because it requires a simulation loo
 
 ## Resources
 
+Resources used are cited in the individual notebooks. Other resources are for further reading or more information on a topic.
+
 #### Tutorial 1: Google Colab and the Dataset
 * https://jupyter.org/https://colab.research.google.com/?utm_source=scs-index
 * https://jupyter.org/
@@ -91,6 +93,14 @@ This tutorial does not use the full dataset because it requires a simulation loo
 * https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
 
 #### Tutorial 4: Neural Networks
+* https://en.wikipedia.org/wiki/Neural_network_(machine_learning)
+* https://en.wikipedia.org/wiki/Multilayer_perceptron
+* https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
+* https://www.geeksforgeeks.org/neural-networks-a-beginners-guide/
+* https://realpython.com/python-ai-neural-network/
+* https://towardsdatascience.com/first-neural-network-for-beginners-explained-with-code-4cfd37e06eaf
+* https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/ (not covered, but still cool)
+
 
 #### Tutorial 5: Fuzzy Logic and Rule-Based Approaches
 
