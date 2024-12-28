@@ -103,7 +103,10 @@ Resources used are cited in the individual notebooks. Other resources are for fu
 
 
 #### Tutorial 5: Fuzzy Logic and Rule-Based Approaches
-
+* https://en.wikipedia.org/wiki/Fuzzy_logic
+* https://en.wikipedia.org/wiki/Fuzzy_control_system
+* https://www.geeksforgeeks.org/common-operations-on-fuzzy-set-with-example-and-code/
+* https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_tipping_problem_newapi.html
 
 
 ## Related Publications
